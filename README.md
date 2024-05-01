@@ -1,4 +1,4 @@
-[h1](#h1)fdsfdsf
+[프로젝트에 쓰인 툴](#tools)fdsfdsf
 
 
 # 소코반 게임
@@ -77,16 +77,13 @@
 
 <br>
 
-## 프로젝트에 쓰인 툴
+## <a name="tools"></a> 프로젝트에 쓰인 툴
 - **launch4j**
   - (프로젝트 EXE 파일로 변환 https://launch4j.sourceforge.net)
 - **ezgif**
   - (게임 플레이 영상 gif로 변환 사이트 https://ezgif.com/video-to-gif)
 - **piskelapp**
   - (게임 픽셀 이미지 제작 사이트 https://www.piskelapp.com)
-
-<h1 name="h1">sdfs</h1>
- <a name="h1">AAAA</a>
 
 
 ## 개발 기간
