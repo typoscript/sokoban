@@ -1,9 +1,13 @@
-[Repository 폴더 구조](#repo_structure) <br>
-[프로젝트에 쓰인 툴](#tools)
-
-
 # 소코반 게임
 <img src="https://github.com/typoscript/sokoban/blob/main/images/sokoban-exe-icon.png" width="200" height="200" />
+
+<br>
+
+## 목차
+> ## [플레이 모드](#mode_play) <br>
+> ## [맵 제작 모드](#mode_map_maker) <br>
+> ## [Repository 폴더 구조](#repo_structure) <br>
+> ## [프로젝트에 쓰인 툴](#tools)
 
 # 게임 플레이 미리보기
 <img src="https://github.com/typoscript/sokoban/blob/main/images/gameplay.gif" width="500" height="500" />
@@ -19,7 +23,7 @@
 <br>
 
 # 모드
-## 플레이 모드
+## <a name="mode_play"></a> 플레이 모드
 <img src="https://github.com/typoscript/sokoban/blob/main/images/game_preview.PNG" width="500" height="500" />
 
 ### 설명
@@ -34,7 +38,7 @@
 
 <br>
 
-## 맵 제작 모드
+## <a name="mode_map_maker"></a> 맵 제작 모드
 <img src="https://github.com/typoscript/sokoban/blob/main/images/game_preview_map_maker_mode.PNG" width="500" height="500" />
 
 ### 설명
