@@ -1,20 +1,9 @@
-[프로젝트에 쓰인 툴](#tools)fdsfdsf
+[Repository 폴더 구조](#repo_structure) <br>
+[프로젝트에 쓰인 툴](#tools)
 
 
 # 소코반 게임
 <img src="https://github.com/typoscript/sokoban/blob/main/images/sokoban-exe-icon.png" width="200" height="200" />
-
-## Repository 폴더 구조
-> **game**
-- 게임 실행 파일 폴더 (본 폴더를 다운 후 sokoban.exe 파일을 실행하여 게임 플레이 가능).
-
-> **images**
-- Github README.md 파일에 사용된 이미지와 sokoban.exe 아이콘 이미지 보관 폴더.
-
-> **sokoban**
-  - 프로젝트 소스코드 폴더.
-
-<br>
 
 # 게임 플레이 미리보기
 <img src="https://github.com/typoscript/sokoban/blob/main/images/gameplay.gif" width="500" height="500" />
@@ -74,6 +63,18 @@
 - 맵 저장 시, 현재 플레이어의 위치가 게임 플레이 시, 플레이어의 초기 위치.
 - 맵 승리 원리는 현재 맵 클리어 후, 현재 레벨에서 1을 더한 레벨에 맞는 맵이 없을 시, 게임 승리 처리.
 - 맵 파일 저장 위치: **game** 폴더 속 **maps** 폴더 속 위치.
+
+<br>
+
+## <a name="repo_structure"></a> Repository 폴더 구조
+> **game**
+- 게임 실행 파일 폴더 (본 폴더를 다운 후 sokoban.exe 파일을 실행하여 게임 플레이 가능).
+
+> **images**
+- Github README.md 파일에 사용된 이미지와 sokoban.exe 아이콘 이미지 보관 폴더.
+
+> **sokoban**
+  - 프로젝트 소스코드 폴더.
 
 <br>
 
