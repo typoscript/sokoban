@@ -1,4 +1,4 @@
-[h1](h1)fdsfdsf
+[h1](#h1)fdsfdsf
 
 
 # 소코반 게임
