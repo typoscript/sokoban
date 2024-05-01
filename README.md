@@ -9,6 +9,8 @@
 > ## [Repository 폴더 구조](#repo_structure) <br>
 > ## [프로젝트에 쓰인 툴](#tools)
 
+<br>
+
 # 게임 플레이 미리보기
 <img src="https://github.com/typoscript/sokoban/blob/main/images/gameplay.gif" width="500" height="500" />
 
@@ -34,7 +36,7 @@
 ### 조작법
 - 이동 방법: **방향키**.
 - 현재 스테이지 재시작 방법: **스페이스바**.
-- 로비로 이동 방법 (주의, 로비로 이동 시, 게임 스테이지 초기화): **뒤로가기** 버튼 클릭.
+- 로비로 이동 방법 (주의, 로비로 이동 시, 게임 스테이지 초기화): 상단 왼쪽 **뒤로가기** 버튼 클릭.
 
 <br>
 
@@ -90,6 +92,7 @@
 - **piskelapp**
   - (게임 픽셀 이미지 제작 사이트 https://www.piskelapp.com)
 
+<br>
 
 ## 개발 기간
 2023-02-23 ~ 2023.04-24
