@@ -16,7 +16,7 @@ public class Message {
 	private static class Text {
 		static final String GAME_WIN = "게임 승리";
 		static final String GAME_OVER = "게임 종료";
-		static final String MODE_MAKE_MAP = "맵 생성모드";
+		static final String MODE_MAKE_MAP = "맵 제작모드";
 		static final String MODE_MAKE_MAP_NO_MAP = "로드된 맵이 없습니다. (맵을 선택하시오)";
 		static final String MAP_NOT_FOUND = "맵 불러오기 실패";
 	}
