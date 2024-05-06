@@ -1,5 +1,5 @@
 # 소코반 게임
-<img src="https://github.com/typoscript/sokoban/blob/main/images/sokoban-exe-icon.png" width="200" height="200" />
+<img src="https://github.com/typoscript/sokoban/blob/main/images/sokoban_exe_icon.ico" width="200" height="200" />
 
 <br>
 
