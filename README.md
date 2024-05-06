@@ -1,7 +1,4 @@
 # 소코반 게임
-<img src="https://github.com/typoscript/sokoban/blob/main/images/sokoban_exe_icon.ico" width="200" height="200" />
-
-<br>
 
 ## 목차
 > ## [게임 실행 방법](#how_to_run) <br>
